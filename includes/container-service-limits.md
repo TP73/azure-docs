@@ -5,7 +5,7 @@
 | Max pods per node ([advanced networking with Azure CNI][advanced-networking]) | 30<sup>1</sup> |
 | Max cluster per subscription | 100 |
 
-<sup>1</sup> This value can be customized through ARM template deployment. See examples [here][arm-deployment-example].<br />
+<sup>1</sup> This value can be customized through ARM template deployment. See examples [here](https://github.com/Azure/ACS/tree/master/docs/VNET). <br />
 
 <!-- LINKS - Internal -->
 [basic-networking]: ../articles/aks/networking-overview.md#basic-networking
